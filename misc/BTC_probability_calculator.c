@@ -19,10 +19,26 @@ double AttackerSuccessProbability(double q, int z) //q is the attacker percentag
 }
  
 int main(void) {
-	float a = AttackerSuccessProbability(0.2, 10);
+	float a = AttackerSuccessProbability(0.3, 31);
+ 	printf("%.9f", a);
+	printf("\n");
  
-	printf("%.9f", a);
- 
+	a = AttackerSuccessProbability(0.3, 32);
+ 	printf("%.9f", a);
+	printf("\n");
+	
+	a = AttackerSuccessProbability(0.3, 33);
+ 	printf("%.9f", a);
+	printf("\n");
+	
+	a = AttackerSuccessProbability(0.3, 34);
+ 	printf("%.9f", a);
+	printf("\n");
+	
+	a = AttackerSuccessProbability(0.3, 35);
+ 	printf("%.9f", a);
+	printf("\n");
+	
 	return 0;
 }
 
