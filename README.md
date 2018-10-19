@@ -14,4 +14,4 @@ This homework focusses on [mining](https://en.wikipedia.org/wiki/Cryptocurrency#
 This homework focusses on the [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) consensus algorithm implemented in Bitcoin and many other blockchains.
 
 ## HW5 - Practical Byzantine Fault Tolerance
-This homework focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions. 
+This homework focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions, in particular in [Tendermint](https://tendermint.com/static/docs/tendermint.pdf). 
