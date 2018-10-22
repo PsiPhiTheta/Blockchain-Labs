@@ -24,4 +24,4 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4
 ## HW5 - Practical Byzantine Fault Tolerance
 This Q&A focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions, in particular in [Tendermint](https://tendermint.com/static/docs/tendermint.pdf). 
 
-Read it [here](null).
+Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5/Homework5.pdf).
