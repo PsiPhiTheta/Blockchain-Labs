@@ -25,3 +25,8 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4
 This Q&A focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions, in particular in [Tendermint](https://tendermint.com/static/docs/tendermint.pdf). 
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5/Homework5.pdf).
+
+## HW6 - PoW Memeory-Hard Algorithms
+This Q&A focusses on alternative memory-hard [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) algorithms implemented in Bitcoin competitors like Ethereum (using [Ethash](https://en.wikipedia.org/wiki/Ethash)) and Zcash (using [Equihash](https://en.wikipedia.org/wiki/Equihash)).
+
+Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4/Homework4.pdf).
