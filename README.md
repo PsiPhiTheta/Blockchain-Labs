@@ -26,7 +26,7 @@ This Q&A focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipe
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5/Homework5.pdf).
 
-## HW6 - PoW Memeory-Hard Algorithms
-This Q&A focusses on alternative memory-hard [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) algorithms implemented in Bitcoin competitors like Ethereum (using [Ethash](https://en.wikipedia.org/wiki/Ethash)) and Zcash (using [Equihash](https://en.wikipedia.org/wiki/Equihash)).
+## HW6 - PoW Memory-Hard Algorithms
+This Q&A focusses on alternative memory-hard [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) algorithms implemented in Bitcoin competitors like Ethereum (using [Ethash](https://en.wikipedia.org/wiki/Ethash) PoW) and Zcash (using [Equihash](https://en.wikipedia.org/wiki/Equihash) PoW).
 
-Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4/Homework4.pdf).
+Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw6/Homework6.pdf).
