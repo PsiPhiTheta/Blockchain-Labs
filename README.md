@@ -21,7 +21,7 @@ This Q&A focusses on the [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4/Homework4.pdf).
 
-## HW5 - Practical Byzantine Fault Tolerance
+## HW5 - Practical Byzantine Fault Tolerance (PBFT) consensus
 This Q&A focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions, in particular in [Tendermint](https://tendermint.com/static/docs/tendermint.pdf). 
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5/Homework5.pdf).
@@ -30,3 +30,8 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5
 This Q&A focusses on alternative memory-hard [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) algorithms implemented in Bitcoin competitors like Ethereum (using [Ethash](https://en.wikipedia.org/wiki/Ethash) PoW) and Zcash (using [Equihash](https://en.wikipedia.org/wiki/Equihash) PoW).
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw6/Homework6.pdf).
+
+## HW7 - Alternative Consensus Algorithms (GHOST, Conflux and Algorand)
+This Q&A focusses on alternative consensus algorithms to the Nakamoto Consensus in [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system). The algorithms examined are [GHOST](https://eprint.iacr.org/2013/881.pdf), [Conflux](https://arxiv.org/abs/1805.03870) and [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf).
+
+Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw7/Homework7.pdf).
