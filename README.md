@@ -16,17 +16,17 @@ This Q&A focusses on [mining](https://en.wikipedia.org/wiki/Cryptocurrency#Minin
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw3/Homework3.pdf).
 
-## HW4 - PoW Consensus Algorithms
+## HW4 - Traditional PoW Consensus 
 This Q&A focusses on the [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) consensus algorithm implemented in the Bitcoin blockchain and in many other blockchains.
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw4/Homework4.pdf).
 
-## HW5 - Practical Byzantine Fault Tolerance (PBFT) consensus
+## HW5 - Practical Byzantine Fault Tolerance (PBFT) Consensus
 This Q&A focusses on the Practical [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) problem and its consensus solutions, in particular in [Tendermint](https://tendermint.com/static/docs/tendermint.pdf). 
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw5/Homework5.pdf).
 
-## HW6 - PoW Memory-Hard Algorithms
+## HW6 - Memory-Hard PoW Consensus 
 This Q&A focusses on alternative memory-hard [Proof-of-Work](https://en.wikipedia.org/wiki/Proof-of-work_system) algorithms implemented in Bitcoin competitors like Ethereum (using [Ethash](https://en.wikipedia.org/wiki/Ethash) PoW) and Zcash (using [Equihash](https://en.wikipedia.org/wiki/Equihash) PoW).
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw6/Homework6.pdf).
