@@ -42,6 +42,6 @@ This Q&A focusses on alternative consensus algorithms such as the off-chain PoW 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw8/Homework8.pdf).
 
 ## HW9 - Privacy & Fungibility: Monero and ZCash
-This Q&A focusses on the implementation of privacy and fungibility in the [Monero](https://whitepaperdatabase.com/monero-xmr-whitepaper/) and [ZCash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf) implementations (including use of [zkSNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)).
+This Q&A focusses on the implementation of privacy and fungibility in the [Monero](https://whitepaperdatabase.com/monero-xmr-whitepaper/) and [ZCash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf) protocols (including use of [zkSNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)).
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw9/Homework9.pdf).
