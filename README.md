@@ -40,3 +40,6 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw7
 This Q&A focusses on alternative consensus algorithms such as the off-chain PoW in [Bitcoin Lightning](https://lightning.network/lightning-network-paper.pdf) and PoS, PoR, PoRep and PoSt in [Filecoin](https://filecoin.io/filecoin.pdf).
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw8/Homework8.pdf).
+
+## HW9 - Privacy & Fungibility: Monero and ZCash
+This Q&A focusses on the implementation of privacy and fungibility in the [Monero](https://whitepaperdatabase.com/monero-xmr-whitepaper/) and [ZCash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf) implementations (including use of [zkSNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)).
