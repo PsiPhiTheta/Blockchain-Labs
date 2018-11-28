@@ -45,3 +45,8 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw8
 This Q&A focusses on the implementation of privacy and fungibility in the [Monero](https://whitepaperdatabase.com/monero-xmr-whitepaper/) and [ZCash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf) protocols (including use of [zkSNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)).
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw9/Homework9.pdf).
+
+## HW10 - Consensus (VI): IOTA
+This Q&A focusses on the implementation of tDAGs in [IOTA](https://iota.readme.io/docs/whitepaper). A brief discussion is also made on scalability, incentive mechanisms and turning off The Coordinator.
+
+Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw10/Homework10.pdf).
