@@ -1,5 +1,5 @@
 # Blockchain-Labs
-Coursework and laboratory files for the UofT Blockchain Engineering course
+Q&A and IOTA seminar for the UofT Blockchain Engineering course
 
 ## HW1 - Fundamentals: Bitcoin
 This Q&A focusses on the details of the implementation of Bitcoin (and Script language) according to the [original Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf).
@@ -50,3 +50,6 @@ Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw9
 This Q&A focusses on the implementation of tDAGs in [IOTA](https://iota.readme.io/docs/whitepaper). A brief discussion is also made on scalability, incentive mechanisms and turning off The Coordinator.
 
 Read it [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/hw/hw10/Homework10.pdf).
+
+## Seminar - IOTA
+Feel free to consult the presentation slides [here](https://github.com/PsiPhiTheta/Blockchain-Labs/blob/master/seminar/IOTA.pdf).
